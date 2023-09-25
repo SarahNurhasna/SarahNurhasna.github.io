@@ -1,0 +1,94 @@
+.jumbotron {
+  padding: 2rem 1rem;
+  background-color: #112b3c;
+}
+
+.profile-picture {
+  width: 274;
+  height: 274;
+}
+
+.sarah {
+  font-size: 50px;
+  color: #f66b0e;
+  word-wrap: break-word;
+}
+
+.nurhasna {
+  font-size: 50px;
+  word-wrap: break-word;
+}
+
+.about-me {
+  color: #ffffff;
+  background-color: #f66b0e;
+  border-radius: 21px;
+}
+
+#education {
+  padding: 2rem 1rem;
+  background-color: #205375;
+}
+
+.edu {
+  color: #ffffff;
+  border-radius: 21px;
+}
+
+.its {
+  width: 453;
+  height: 288;
+}
+
+.sepuluh {
+  color: #ffffff;
+  background-color: #f66b0e;
+  border-radius: 5px;
+  width: 650px;
+  height: 52px;
+}
+
+.tc {
+  color: #000000;
+  background-color: #ececec;
+  border-radius: 5px;
+  width: 650px;
+  height: 52px;
+}
+
+.s1 {
+  color: #000000;
+  background-color: #ececec;
+  border-radius: 5px;
+  width: 650px;
+  height: 52px;
+}
+
+.now {
+  color: #000000;
+  background-color: #ececec;
+  border-radius: 5px;
+  width: 650px;
+  height: 52px;
+}
+
+#event {
+  padding: 2rem 1rem;
+  background-color: #091f2e;
+}
+
+#skills {
+  padding: 2rem 1rem;
+  background-color: #091f2e;
+}
+
+.skill {
+  color: #ffffff;
+  background-color: #f66b0e;
+  border-radius: 21px;
+}
+
+.btn {
+  color: #ffffff;
+  background-color: #f66b0e;
+}
